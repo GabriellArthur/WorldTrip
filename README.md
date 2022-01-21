@@ -71,12 +71,4 @@ $ yarn start
 
 &nbsp;
 
-## 📝 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/GBDev13/dashgo/blob/main/LICENSE) para detalhes.
-
-
----
-
-<p align="center">Feito com 💙 por Gabriel Borges</p>
 
