@@ -71,4 +71,8 @@ $ yarn start
 
 &nbsp;
 
+### 🔗 Link para o Figma
+
+[FIGMA](https://www.figma.com/file/y4wTPX8CPkIh0yqNXz2Bao/Desafio-1-Módulo-4-ReactJS-(Copy)?node-id=0%3A1)
+
 
